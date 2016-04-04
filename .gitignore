@@ -1,0 +1,11 @@
+*~
+PAM/*~
+PAM/*.h~
+PAM/*.c~
+PAM/*.o
+PAM/pam_usbkey.so
+USBKeygen/usbkeygen
+USBKeygen/*~
+USBKeygen/*.h~
+USBKeygen/*.c~
+USBKeygen/*.o
